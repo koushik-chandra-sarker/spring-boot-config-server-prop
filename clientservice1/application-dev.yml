@@ -1,2 +1,2 @@
 custom:
-  greeting: Form:clientservice1-dev: Welcome to spring boot client-service1 demo app
+  greeting: 'Form:clientservice1-dev: Welcome to spring boot client-service1 demo app'
