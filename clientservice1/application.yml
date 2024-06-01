@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: config-server
+custom:
+  greeting: "Form:clientservice1: Welcome to spring boot ${spring.application.name} demo app"
