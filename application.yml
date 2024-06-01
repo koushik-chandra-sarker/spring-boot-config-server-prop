@@ -1,2 +1,5 @@
-spring.application.name=config-server
-custom.greeting=Welcome to spring boot ${spring.application.name} demo app
+spring:
+  application:
+    name: config-server
+custom:
+  greeting: Welcome to spring boot ${spring.application.name} demo app
