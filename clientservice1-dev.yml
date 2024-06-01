@@ -1,2 +1,3 @@
 custom:
   greeting: 'root:clientservice1-dev Welcome to spring boot clientservie1-dev demo app'
+m2: "root:clientservice1-dev"
