@@ -1,3 +1,4 @@
 
 custom:
   greeting: 'root: Welcome to spring boot ${spring.application.name} demo app'
+m1: "root: message"
