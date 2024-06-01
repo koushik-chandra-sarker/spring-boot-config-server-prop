@@ -2,3 +2,4 @@
 custom:
   greeting: "Form:clientservice1: Welcome to spring boot ${spring.application.name} demo app"
   message: "message form clientservie1:default"
+  meaage_local: "${CONFIG_SERVER_TEST}"
